@@ -3,6 +3,9 @@
 #import "Character.h"
 #import "Guild.h"
 
+
+//AG: testing to ensure commits and CI works with XCode bot.
+
 @implementation WoWApiClient
 
 static dispatch_once_t oncePredicate;
